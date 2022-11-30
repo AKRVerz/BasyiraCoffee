@@ -70,6 +70,11 @@ section {
   cursor: pointer;
 }
 
+#maps {
+  border-radius: 7%;
+  padding: 0.2rem 1rem;
+}
+
 .btn:hover {
   letter-spacing: 0.2rem;
 }
@@ -496,6 +501,12 @@ section {
   padding: 1rem 0;
 }
 
+.footer .share p {
+  font-size: 2rem;
+  padding-bottom: 2rem;
+  color: white;
+}
+
 .footer .share a {
   height: 5rem;
   width: 5rem;
@@ -509,14 +520,6 @@ section {
 
 .footer .share a:hover {
   background-color: var(--main-color);
-}
-
-.footer .links {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  padding: 2rem 0;
-  gap: 1rem;
 }
 
 .footer .links a {
