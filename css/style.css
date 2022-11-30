@@ -388,7 +388,7 @@ section {
   font-size: 1.5rem;
 }
 
-.review .box-container {
+/* .review .box-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
   gap: 1.5rem;
@@ -423,7 +423,7 @@ section {
 .review .box-container .box .stars i {
   font-size: 1.5rem;
   color: var(--main-color);
-}
+} */
 
 .contact .row {
   display: flex;
@@ -438,7 +438,7 @@ section {
   object-fit: cover;
 }
 
-.blogs .box-container {
+/* .blogs .box-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
   gap: 1.5rem;
@@ -490,7 +490,7 @@ section {
   line-height: 1.8;
   color: #ccc;
   padding: 1rem 0;
-}
+} */
 
 .footer {
   background: var(--black);
